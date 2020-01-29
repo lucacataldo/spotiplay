@@ -1,0 +1,27 @@
+{
+  "name": "spotiplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucacataldo/spotiplay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucacataldo/spotiplay/issues"
+  },
+  "homepage": "https://github.com/lucacataldo/spotiplay#readme",
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}
